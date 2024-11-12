@@ -1,0 +1,43 @@
+# repositorios y control de versiones
+
+## sabe la diferencia entre un repositorio de proyectos y un software de control de versiones¨?
+*Un repositorio de proyectos es básicamente un espacio de almacenamiento donde se guardan todos los archivos relacionados con un proyecto. Este repositorio puede estar en tu máquina local o en un servidor remoto*
+*En términos sencillos, es el lugar donde se encuentra todo lo necesario para trabajar en un proyecto.*
+*El software de control de versiones (VCS, por sus siglas en inglés) es una herramienta que gestiona los cambios en los archivos del proyecto a lo largo del tiempo. Su función principal es mantener un historial de todas las modificaciones realizadas en los archivos del proyecto, de modo que se pueda volver a versiones anteriores, realizar un seguimiento de qué cambios fueron hechos por qué personas, y colaborar sin sobrescribir el trabajo de los demás.*
+
+## que es git y para que sirve?
+*Git es una herramienta que permite a los desarrolladores gestionar las versiones de un proyecto a lo largo del tiempo. Al usar Git, puedes realizar un seguimiento detallado de todos los cambios que se realizan en el código, colaborar con otros desarrolladores y mantener un historial completo del desarrollo del proyecto.*
+
+## que otro programa de control de versiones conoce mencione 2
+
+*Subversion (o SVN) es un sistema de control de versiones centralizado, lo que significa que existe un servidor central donde se guarda toda la historia del proyecto y los desarrolladores deben obtener una copia de trabajo desde ese servidor. A diferencia de Git, que es distribuido, con SVN solo hay una versión centralizada y los usuarios necesitan acceder a ella para hacer cambios.*
+*Mercurial es otro sistema de control de versiones distribuido, similar a Git, pero con un enfoque en la simplicidad y facilidad de uso. Al igual que Git, Mercurial permite a los desarrolladores tener una copia completa del repositorio y trabajar de forma independiente en sus propias ramas.*
+
+## que es github y para que sirve?
+
+*GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolladores almacenar su código en repositorios de Git en línea, gestionar versiones del código y colaborar con otros. Ofrece herramientas para crear, compartir y colaborar en proyectos de software, y está especialmente orientado a proyectos que usan Git como sistema de control de versiones.*
+
+*Es importante destacar que GitHub es solo una plataforma en línea que alojará los repositorios Git, es decir, Git es la herramienta que gestiona las versiones y GitHub es el servicio donde puedes almacenar, compartir y colaborar en esos repositorios.*
+
+**¿Para qué sirve GitHub?**
+
+*Almacenaje de código*
+
+*Colaboración en equipo*
+
+*Control de versiones*
+
+*Seguimiento de problemas (Issues)*
+
+*Documentación*
+
+*Automatización (Actions)*
+
+*Control de permisos y seguridad*
+
+
+
+
+
+
+
