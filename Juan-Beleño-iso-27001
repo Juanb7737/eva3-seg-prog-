@@ -1,0 +1,35 @@
+# ISO 27001
+
+## ¿Qué es un SGSI?
+
+*Son las medidas de seguridad que se implementa en los activos de informatica ( equipos computaciones, servidores, etc.) por ejemplo: politicas, procesos, controles etc.*
+
+## ¿Cuáles son los tres pilares de la seguridad de la información?
+
+**Confiabilidad**
+
+**Integridad**
+
+**Disponibilidad**
+
+## ¿Qué describe la norma ISO 27001?
+
+*Nos sirve como una guía para poder establecer, implementar, mantener y mejorar un sistema de gestión de seguridad de la información basandose en una gestión de riesgo, buscando donde estan los riesgos para poder evitarlos.*
+
+## Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001?
+
+*La principal diferencian entre el "que" y el "como" es que, el "que"" nos dice que debemos hacer para gestionar nuestro SGSI y el "como" varia dependiendo de la realidad de cada empresa a la hora de tomar las diferentes medidas.*
+
+## ¿En qué se basa el SGSI según la ISO 27001?
+
+*Se basa en una gestión de riesgo, buscando donde estan los riesgos para poder evitarlos.*
+
+*Tambien podriamos decir que se basa en un ciclo de mejora continua que serian: plan, do, check y act.*
+
+## ¿Qué son los controles en la ISO 27001 y dónde se encuentran?
+
+*Los controles de la norma ISO 27001 se encuentran en el Anexo A. El Anexo A de la ISO 27001 describe un conjunto de 114 controles organizados en 14 categorías o "cláusulas", que abordan diferentes aspectos de la seguridad de la información.*
+
+## ¿Por qué es importante el apoyo de la alta dirección?
+
+*Es importante porque se deben colocar roles y responsabilidades y brindar una politica de seguridad de la informacion.*
